@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: #f1f1f1;
+  background-color: #1f1f1f;
 }
 
 #regForm {
