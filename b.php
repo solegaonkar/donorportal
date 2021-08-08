@@ -1,8 +1,6 @@
 <!doctype html>
 	<html lang="en">
 
-
-	<!-- Mirrored from themesbrand.com/veltrix/layouts/vertical/form-wizard.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Mar 2021 11:25:34 GMT -->
 	<head>
 	<meta charset="utf-8" />
 	<title>VSM Thane | Create Donor</title>
@@ -640,6 +638,5 @@
 			
 			</body>
 			
-			<!-- Mirrored from themesbrand.com/veltrix/layouts/vertical/form-wizard.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Mar 2021 11:25:34 GMT -->
 			</html>
 			
