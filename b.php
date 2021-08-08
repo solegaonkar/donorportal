@@ -619,8 +619,6 @@
 			
 			</div>
 			<!-- END layout-wrapper -->
-			
-			
 			<!-- JAVASCRIPT -->
 			<script src="assets/libs/jquery/jquery.min.js"></script>
 			<script src="assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
